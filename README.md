@@ -1,10 +1,13 @@
+---
+layout: default
+title: About Ryxi
+---
  <div class="about-section">
   <h1>About Me</h1>
   <p>Ailurophile.</p>
   <p>Professional Idiot.</p>
   
 </div>
-
 <h2 style="text-align:center">My identities</h2>
 <div class="row">
   <div class="column">
