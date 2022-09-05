@@ -8,7 +8,7 @@
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="https://media.discordapp.net/attachments/940276803518472222/983012698163920916/bongo.webp?width=514&height=514" alt="Me" style="width:20%">
+      <img src="https://media.discordapp.net/attachments/940276803518472222/983012698163920916/bongo.webp?width=514&height=514" alt="Me" style="width:25%">
       <div class="container">
         <h2>Bongo</h2>
         <p class="title">Me</p>
