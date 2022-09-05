@@ -1,8 +1,4 @@
----
-layout: default
-title: About Ryxi
----
- <div class="about-section">
+<div class="about-section">
   <h1>About Me</h1>
   <p>Ailurophile.</p>
   <p>Professional Idiot.</p>
